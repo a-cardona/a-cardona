@@ -1,11 +1,12 @@
 
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew+Cardona!;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Andrew+Cardona+ฅ(ᵔ꒳+ᵔマ.ᐟ;Welcome!)](https://git.io/typing-svg)
+
 
 ---
 
-<img src=["https://tenor.com/view/courage-the-cowardly-dog-computer-typing-typing-fast-office-gif-4226651268117546936)" width="300" align="right"] />
+<img src="https://media.tenor.com/k-wCjNwAyHMAAAAC/courage-the-cowardly-dog-computer.gif" width="300" align="right" />
 
 ---
 
