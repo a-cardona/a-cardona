@@ -4,10 +4,11 @@
 ---
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ2ZGdkOTNhczFpY2F0ZjNvdXZjYXhsZ3kzb3YyMmg1a21wazRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" width="250" align="right" />
 
+## About me ฅ(ᵔ꒳ ᵔマ!
 - Im a Junior at Temple University
 - Current Research Assistant @ CABLAB and HEPS Lab
 - Intrest: Data analysis, Psychological and Neuroscience Research
-- Fun fact ฅ(ᵔ꒳ ᵔマ: I have a tattoo of a sagittal scan of my brain!
+- Fun fact: I have a tattoo of a sagittal scan of my brain!
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-cardona&layout=compact&theme=tokyonight&hide_border=true)
