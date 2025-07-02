@@ -14,7 +14,7 @@
 
 
 
-### ⚒️ Tech Stack
+### Tech Stack ฅᨐฅ
 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-1E88E5?logo=rstudio&logoColor=white)
