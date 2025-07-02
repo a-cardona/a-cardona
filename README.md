@@ -1,5 +1,5 @@
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Code&duration=4000&pause=900&color=87ae73&center=true&vCenter=true&width=600&lines=Hi+I'm+Andrew+Cardona!;I'm+interested+in...;Data+analysis+&+Psychology%2FNeuroscience+research;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat+Code&duration=4000&pause=900&color=87ae73&center=true&vCenter=true&width=600&lines=Hi+I'm+Andrew+Cardona!;I'm+interested+in...;Data+analysis+and+Psychology%2FNeuroscience+research;Welcome!)](https://git.io/typing-svg)
 
 ---
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXQ2ZGdkOTNhczFpY2F0ZjNvdXZjYXhsZ3kzb3YyMmg1a21wazRiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" width="250" align="right" />
