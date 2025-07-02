@@ -1,13 +1,12 @@
 
 
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew+Cardona!;Data+nerd+%7C+Shiny+dev+%7C+Mood+tracker;Welcome+to+my+chaotic+lab!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+I'm+Andrew+Cardona!;Welcome!)](https://git.io/typing-svg)
 
 ---
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" align="right" />
+<img src=["https://tenor.com/view/courage-the-cowardly-dog-computer-typing-typing-fast-office-gif-4226651268117546936)" width="300" align="right"] />
 
-### Hi ฅ(ᵔ꒳ ᵔマ.ᐟ
 ---
 
 ### ⚒️ Tech Stack
@@ -24,7 +23,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a-cardona&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a-cardona&layout=compact&theme=tokyonight&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=a-cardona&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
