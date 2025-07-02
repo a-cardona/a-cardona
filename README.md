@@ -1,5 +1,5 @@
 <!-- Typing animation header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Andrew+Cardona+%E3%84%85(%E1%B5%94%EA%92%B3%E1%B5%94%E3%83%9E.%E1%90%9F;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+I'm+Andrew+Cardona+%E3%83%8B%E3%83%A3%E3%83%B3;Welcome!)](https://git.io/typing-svg)
 
 ---
 
